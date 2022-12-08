@@ -29,5 +29,9 @@ html {
 
 .container {
   display: flex;
+  padding: 10px;
   margin: 0;
+  .sidebar {
+    width: 280px;
+  }
 }
